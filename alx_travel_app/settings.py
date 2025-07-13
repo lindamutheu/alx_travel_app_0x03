@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'celery',
     'listings',
     'alx_travel_app',
-    'alx_travel_app_0x03',
     'django_celery_results'
 ]
 
